@@ -1,6 +1,6 @@
 # 🧠 Brain Tumor Detection using Attention-Enhanced ML-UNet and Multi-Level Feature Fusion
 
-> **A clinically motivated deep learning framework for robust brain tumor detection from MRI scans using Attention mechanisms, ML-UNet architecture, and hierarchical feature fusion.**
+> **A Still progess clinically motivated deep learning framework for robust brain tumor detection from MRI scans using Attention mechanisms, ML-UNet architecture, and hierarchical feature fusion, looking for collaborators for research and development**
 
 ---
 
